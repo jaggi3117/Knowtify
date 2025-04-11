@@ -6,3 +6,5 @@
 - setup user routes
 - setup post routes
 - setup message routes
+- cron job initialized 
+- route protector middleware runnign fine
