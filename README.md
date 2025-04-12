@@ -8,3 +8,5 @@
 - setup message routes
 - cron job initialized 
 - route protector middleware runnign fine
+- socket.io setup 
+- backend fully running cloudinary working fine nice
