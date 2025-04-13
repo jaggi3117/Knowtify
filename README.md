@@ -10,3 +10,8 @@
 - route protector middleware runnign fine
 - socket.io setup 
 - backend fully running cloudinary working fine nice
+
+# frotend
+- created components -> actions, comments, conversation, createpost, headers, login card, logout button, message, messagecontainer, message input, post, suggested user, suggested users, user header and userpos {not tested properly please try to retest}
+- created auth page, chatpage, homepage, post page, settings page {minor bug is there} and update profile page and userpage
+- page rendering tested 
